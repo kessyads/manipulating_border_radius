@@ -47,6 +47,13 @@ body{
     padding: 20px;
 }
 
+button {
+    background-color: #EBB3A9;
+    font-size: 18px;
+    border-radius: 30px;
+    border: 1px #EBB3A9 solid;
+}
+
 
 .dimensions__number{
     align-items: center;
